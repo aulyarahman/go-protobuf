@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	productPackage "github.com/musobarlab/go-protobuf-demo/product"
+	productPackage "github.com/aulyarahman/go-protobuf/product"
 )
 
 func main() {
